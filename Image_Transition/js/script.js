@@ -1,8 +1,8 @@
 new hoverEffect({
     parent:document.querySelector('.image-content1'),
     intensity: 0.2,
-    image1:'../images/pexels-photo-1366919.jpeg',
-    image2:'../images/pexels-photo-1624496.jpeg',
+    image1:'../images/Image1.jpeg',
+    image2:'../images/Image2.jpeg',
     displacementImage:'../images/heightMap.png'
 });
 
