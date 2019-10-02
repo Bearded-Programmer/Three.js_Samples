@@ -1,9 +1,9 @@
 new hoverEffect({
     parent:document.querySelector('.image-content1'),
     intensity: 0.2,
-    image1:'../images/Image1.jpeg',
-    image2:'../images/Image2.jpeg',
-    displacementImage:'../images/heightMap.png'
+    image1:'https://raw.githubusercontent.com/Bearded-Programmer/Three.js_Samples/master/Image_Transition/images/Image1.jpeg',
+    image2:'https://raw.githubusercontent.com/Bearded-Programmer/Three.js_Samples/master/Image_Transition/images/Image2.jpeg',
+   displacementImage:'https://raw.githubusercontent.com/Bearded-Programmer/Three.js_Samples/master/Image_Transition/images/heightMap.png'
 });
 
 
