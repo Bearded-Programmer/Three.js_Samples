@@ -3,5 +3,5 @@ new hoverEffect({
     intensity: 0.6,
     image1:'heath.jpeg',
     image2:'joaquin.jpeg',
-    displacementImage:'haha.png',
+    displacementImage:'heightMap.png',
 });
